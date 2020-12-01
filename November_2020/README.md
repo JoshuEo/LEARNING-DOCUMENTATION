@@ -32,6 +32,3 @@ As you can see on the bottom, it states "No Plan" which means that you can setup
 
 5. Misconception I had with denial of service: Denial of services are not only caused by hundreds of botnets pinging one victim, but also from buffer overflows. Denial of services can be caused from something as simple as unplugging the server's power outlet.
  - There are two types of denial of services: local and remote denial of service
-
-
-
