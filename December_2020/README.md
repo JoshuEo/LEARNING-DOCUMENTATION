@@ -39,12 +39,17 @@ Change: 2020-11-30 09:45:46.922225392 -0500
 Resource: https://geek-university.com/linux/inode/#:~:text=An%20inode%20is%20a%20data,file%20when%20it%20is%20created.
 
 
+## 12/2/2020
+1. **Homomorphic encryption**: A form of encryptiong allowing one to initially perform calculations on encrypted data without decrypting it first.
+  - When decrypted, the output is the same as if the operations had been performed on the unencrypted data.
+  - Microsoft SEAL is one type of homomorphic encryption
 
+2. **Pretexting**: Creating a believable scenario to trick the victim into releasing personal information.
 
+3. **Digital Living Network Alliance**: An organization working to standardize different kinds of appliance s and network devices used in our homes
 
+4. **Digital Rights Management (DRM)**: System of access that allows only **limited** use of material that's been legally purchased
 
-
-
-
+5. **Blockchain**: A centered source where cryptocurrency transactions are kept.
 
 

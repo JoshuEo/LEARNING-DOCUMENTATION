@@ -12,7 +12,12 @@ One day, I had an idea to store the things I learned in a huge repository for mo
  - DoS Misconception
  - Underflow & Underrun
  - Buffer overflow vs overrun
+
+### December 2020
  - Linux inodes
  - stat command
-
+ - Homomorphic encryption
+ - Pretexting
+ - DLNA & DRM
+ - Blockchain
 
