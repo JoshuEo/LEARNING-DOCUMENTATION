@@ -52,4 +52,5 @@ Resource: https://geek-university.com/linux/inode/#:~:text=An%20inode%20is%20a%2
 
 5. **Blockchain**: A centered source where cryptocurrency transactions are kept.
 
-
+## 12/7/2020
+1. All about Git 

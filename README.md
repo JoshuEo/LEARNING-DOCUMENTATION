@@ -20,4 +20,5 @@ One day, I had an idea to store the things I learned in a huge repository for mo
  - Pretexting
  - DLNA & DRM
  - Blockchain
+ - All about GIT
 
