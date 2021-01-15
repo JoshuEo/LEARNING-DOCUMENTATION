@@ -22,3 +22,5 @@ One day, I had an idea to store the things I learned in a huge repository for mo
  - Blockchain
  - All about GIT
 
+### January 2021
+ - Understanding the proof of concept within many important pentesting tools
